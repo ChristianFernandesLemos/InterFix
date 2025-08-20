@@ -10,14 +10,14 @@ O desafio consiste em criar um sistema integrado para web, desktop e mobile de s
 
 ## Backlog do Produto
 
-Quem?        | O que?               | Para                                                        | Prioridade
------------- | --------------------| -------------------------------------------------------------|-----------------|
-Funcionario  | Quer criar chamados de suporte com descrição a categoria detalhadas. | Relatar problemas técnicos de forma organizada.| P1 |
-Funcionario  | Quero ver o status de meus chamados anteriores. | Fazer um acompanhamento sem entrar em contato com a area de TI.  |  P2 |
-Sistema      | Como um sistema de IA, devo analisar a descrição do tíquete | Atribuição de prioridade (baixa/média/alta) com base em palavras-chave históricas. | P1 |
-Sistema      | Como um sistema de IA, devo atribuir chamados ao técnico | Que o técnico designado resolva o chamado. |P1|
-Técnico    |Quero Exbir chamados atribuídos | Saber quais chamados estão pendentes para serem resolvidos. |P1|
-Técnico     | Quero gerenciar meus chamados asginados | Ser mais organizado em meu trabalho diário. | P2 |
-Administrador | Desejo poder gerenciar os níveis de acesso | que os usuários possam ter sua função atribuída a eles. |P1|
-Administrador | Desejo poder gerenciar os chamados| Conhecer quais problemas existem na empresa e que prioridade está sendo dada a eles. | P1 |
+Quem?        | O que?               | Para                                                        | Prioridade      | Status
+------------ | --------------------| -------------------------------------------------------------|-----------------|--------|
+Funcionario  | Quer criar chamados de suporte com descrição a categoria detalhadas. | Relatar problemas técnicos de forma organizada.| P1 | Em andamento ⏳ |
+Funcionario  | Quero ver o status de meus chamados anteriores. | Fazer um acompanhamento sem entrar em contato com a area de TI.  |  P2 | Em andamento ⏳ |
+Sistema      | Como um sistema de IA, devo analisar a descrição do tíquete | Atribuição de prioridade (baixa/média/alta) com base em palavras-chave históricas. | P1 | Em andamento ⏳ |
+Sistema      | Como um sistema de IA, devo atribuir chamados ao técnico | Que o técnico designado resolva o chamado. |P1|Em andamento ⏳ |
+Técnico    |Quero Exbir chamados atribuídos | Saber quais chamados estão pendentes para serem resolvidos. |P1|Em andamento ⏳ |
+Técnico     | Quero gerenciar meus chamados asginados | Ser mais organizado em meu trabalho diário. | P2 |Em andamento ⏳ |
+Administrador | Desejo poder gerenciar os níveis de acesso | que os usuários possam ter sua função atribuída a eles. |P1|Em andamento ⏳ |
+Administrador | Desejo poder gerenciar os chamados| Conhecer quais problemas existem na empresa e que prioridade está sendo dada a eles. | P1 |Em andamento ⏳ |
 
