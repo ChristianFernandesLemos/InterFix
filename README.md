@@ -18,4 +18,6 @@ Sistema      | Como um sistema de IA, devo analisar a descrição do tíquete | 
 Sistema      | Como um sistema de IA, devo atribuir chamados ao técnico | Que o técnico designado resolva o chamado. |P1|
 Técnico    |Quero Exbir chamados atribuídos | Saber quais chamados estão pendentes para serem resolvidos. |P1|
 Técnico     | Quero gerenciar meus chamados asginados | Ser mais organizado em meu trabalho diário. | P2 |
+Administrador | Desejo poder gerenciar os níveis de acesso | que os usuários possam ter sua função atribuída a eles. |P1|
+Administrador | Desejo poder gerenciar os chamados| Conhecer quais problemas existem na empresa e que prioridade está sendo dada a eles. | P1 |
 
