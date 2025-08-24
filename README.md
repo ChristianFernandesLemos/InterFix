@@ -21,3 +21,20 @@ Técnico     | Quero gerenciar meus chamados asginados | Ser mais organizado em 
 Administrador | Desejo poder gerenciar os níveis de acesso | que os usuários possam ter sua função atribuída a eles. |P1|Em andamento ⏳ |
 Administrador | Desejo poder gerenciar os chamados| Conhecer quais problemas existem na empresa e que prioridade está sendo dada a eles. | P1 |Em andamento ⏳ |
 
+## 📅 Cronograma da Sprint
+
+Sprint   |Periodo  | Documentação
+---------|---------|---------------|
+Sprint1  |     -    |               |
+Sprint2  |      -   |               |
+
+## Tecnologias Utilizadas
+
+Categoria | Tecnologia 
+----------|---------------|
+FrontEnd  | HTML, CSS e Figma |
+Banco de dados | BrModel e SQL Server|
+I.A | BlackBox AI |
+Metodologia | 	Scrum |
+
+        
