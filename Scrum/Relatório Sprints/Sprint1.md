@@ -25,8 +25,5 @@ Re006: Níveis de acesso: O Sistema deve possuir níveis de acesso (funcionário
 ## Modelagem de requisitos
 * Os requisitos foram modelados em diagramas de [casos de uso](https://github.com/ChristianFernandesLemos/InterFix/tree/main/Diagramas), com o objetivo de oferecer ao cliente e à equipe de desenvolvimento uma visão mais clara sobre o sistema e sua respectiva implementação.
 
- ![Diagrama_Chamados](https://github.com/user-attachments/assets/e10f663d-c166-44cb-bff9-198d62879e47)
- 
-
 ## Ferramentas utilizadas 
 * Astah UML
