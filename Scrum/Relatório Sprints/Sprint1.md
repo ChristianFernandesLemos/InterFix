@@ -2,7 +2,13 @@
 
 A sprint em questão se concentrou no desenvolvimento do backlog do produto, reunindo os requisitos funcionais e requisitos não funcionais, os quais foram separados por prioridade, de modo a proporcionar uma visão clara acerca do sistema a ser implementado. 
 
-Os requisitos coletados foram os seguintes:
+<p align = "center">
+  <a href="requisitos">requisitos</a>
+  <a href="modelagem">modelagem</a>
+  <a href="ferramentas">ferramentas</a>
+</p>
+
+## Requisitos:  <a id = "requisitos"></a>
 
 Prioridade 1:
 
@@ -22,8 +28,8 @@ Prioridade 3:
 
 Re006: Níveis de acesso: O Sistema deve possuir níveis de acesso (funcionário, responsável técnico e administrador).
 
-## Modelagem de requisitos
+## Modelagem de requisitos  <a id = "modelagem"></a>
 * Os requisitos foram modelados em diagramas de [casos de uso](https://github.com/ChristianFernandesLemos/InterFix/tree/main/Diagramas), com o objetivo de oferecer ao cliente e à equipe de desenvolvimento uma visão mais clara sobre o sistema e sua respectiva implementação.
 
-## Ferramentas utilizadas 
+## Ferramentas utilizadas  <a id = "ferramentas"></a>
 * Astah UML
