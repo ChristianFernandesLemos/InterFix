@@ -1,6 +1,6 @@
 # PRIMERA SPRINT (25/08/2025)
 
-O sprint em questão concentrou-se no desenvolvimento do backlog do produto, reunindo os requisitos funcionais e, concomitantemente, os requisitos não funcionais, os quais foram separados por prioridade, de modo a proporcionar uma visão clara acerca do sistema a ser implementado. 
+A sprint em questão se concentrou no desenvolvimento do backlog do produto, reunindo os requisitos funcionais e requisitos não funcionais, os quais foram separados por prioridade, de modo a proporcionar uma visão clara acerca do sistema a ser implementado. 
 
 Os requisitos coletados foram os seguintes:
 
