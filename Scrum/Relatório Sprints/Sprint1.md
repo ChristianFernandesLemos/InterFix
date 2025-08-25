@@ -1,4 +1,4 @@
-# PRIMERA SPRINT (24/03/2025)
+# PRIMERA SPRINT (25/08/2025)
 
 O sprint em questão concentrou-se no desenvolvimento do backlog do produto, reunindo os requisitos funcionais e, concomitantemente, os requisitos não funcionais, os quais foram separados por prioridade, de modo a proporcionar uma visão clara acerca do sistema a ser implementado. 
 
