@@ -33,6 +33,7 @@ Sprint2  |      -   |               |
 Categoria | Tecnologia 
 ----------|---------------|
 FrontEnd  | HTML, CSS e Figma |
+BackEnd | python e C# |
 Banco de dados | BrModel e SQL Server|
 I.A | BlackBox AI |
 Metodologia | 	Scrum |
