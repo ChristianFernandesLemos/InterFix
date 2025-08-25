@@ -25,7 +25,7 @@ Administrador | Desejo poder gerenciar os chamados| Conhecer quais problemas exi
 
 Sprint   |Periodo  | Documentação
 ---------|---------|---------------|
-Sprint1  |     -    |               |
+Sprint1  |25/08/2025| [Sprint1](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Scrum/Relatório%20Sprints/Sprint1.md)          |
 Sprint2  |      -   |               |
 
 ## Tecnologias Utilizadas
