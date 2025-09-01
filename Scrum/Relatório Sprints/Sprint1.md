@@ -8,7 +8,7 @@ A sprint em questão se concentrou no desenvolvimento do backlog do produto, reu
   <a href="ferramentas">ferramentas</a> |
 </p>
 
-## Requisitos: 
+## Backlog do Produto: 
 <a id = "requisitos"></a>
 
 Prioridade 1:
@@ -17,17 +17,22 @@ Re001: Usuários devem ser capazes de criar chamados, estes chamados devem ter d
 
 Re002: Tratamento de Chamados via I.A, O sistema deve analisar os chamados por meio de uma I.A, e após a análise deve atribuir um nível de prioridade com base na descrição, categoria e quem o chamado afeta os enviar para o responsável técnico, e caso necessário recategorizar o chamado.
 
-Re003: O banco de dados deve ser MS SQL server hospedado em Windows Server.
+ReNF1: O banco de dados deve ser MS SQL server hospedado em Windows Server.
+
+ReNF2: Desktop: Interface em C# com Windows Forms, WPF para gestão administrativa do sistema, Blazor etc.
+
+ReNF3: Web: ASP.NET e C# para a aplicação web responsiva.
+
 
 Prioridade 2:
 
-Re004: Gerenciamento de chamados, Os chamados pendentes e concluídos poderão ser acessados pelo(s) responsável técnico, e podem ser marcados como concluídos após o problema ser resolvido.
+Re003: Gerenciamento de chamados, Os chamados pendentes e concluídos poderão ser acessados pelo(s) responsável técnico, e podem ser marcados como concluídos após o problema ser resolvido.
 
-Re005: Criação de Relatórios: O sistema deve ser capaz de criar relatórios semanais e mensais sobre os chamados criados, resolvidos e pendentes.
+Re004: Criação de Relatórios: O sistema deve ser capaz de criar relatórios semanais e mensais sobre os chamados criados, resolvidos e pendentes.
 
 Prioridade 3:
 
-Re006: Níveis de acesso: O Sistema deve possuir níveis de acesso (funcionário, responsável técnico e administrador).
+Re005: Níveis de acesso: O Sistema deve possuir níveis de acesso (funcionário, responsável técnico e administrador).
 
 ## Modelagem de requisitos  
 <a id = "modelagem"></a>
@@ -45,9 +50,8 @@ Re006: Níveis de acesso: O Sistema deve possuir níveis de acesso (funcionário
 | Critérios de Aceitação Definidos | A história possui critérios objetivos que indicam o que é necessário para considerá-la concluída. |
 |           Independente           | A história pode ser implementada sem depender de outra tarefa da mesma Sprint.                    |
 |    Compreensão Compartilhada     | Toda a equipe (incluindo PO e devs) compreende o propósito da história.                           |
-|            Estímável             | A história tem uma estimativa clara.                            |
 |       Documentos de Apoio        | Se necessário, fluxos ou modelos de dados estão anexados ou referenciados.               |
-|   Critérios técnicos acordados   | As necessidades de Frontend e Backend foram claramente separadas (quando aplicável).              |
+|   Critérios técnicos acordados   | As necessidades de Frontend e Backend foram claramente separadas.              |
 
 ## 🏅 DoD - Definition of Done <a id="dod"></a>
 

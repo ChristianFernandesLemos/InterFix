@@ -8,6 +8,10 @@ A InterFix é uma empresa dedicada a transformar o suporte técnico empresarial 
 
 O desafio consiste em criar um sistema integrado para web, desktop e mobile de suporte tecnico e gestão de chamados con integração de IA. O aplicativo possuira três níveis de acesso e deve ser capaz de analisar e atribuir a prioridade do chamado, também atribuirá o chamado ao técnico que tiver a carga horária mais baixa. Além da criação e gestão de chamadas, o sistema deverá gerar e gerenciar relatórios (com filtro de tempo), disponibilizando também uma função para gerenciar os níveis de acesso (função à qual somente o administrador poderá acessar).
 
+## 🏅 Solução 
+
+O IMT - Interfix Management Tool permitirá que os usuários criem chamados para informar problemas internos, com o uso de inteligencia artificial para o tratamento dos chamados e atribuição do chamado para os tecnicos responsaveis, possibilitando um rapido gerenciamento de chamados para os mesmos através de um sistema intuitivo e facil de se lidar, e fazendo uma analise completa das informações armazenadas sobre os chamados através de relatórios detalhados.
+
 ## Backlog do Produto
 
 Quem?        | O que?               | Para                                                        | Prioridade      | Status
@@ -35,14 +39,15 @@ Administrador | Desejo poder gerenciar os chamados| Conhecer quais problemas exi
 * Manual da Aplicação
 * Documentação da API (Application Programming Interface)
 * Código completo
+  
 ---
 
 ## 📅 Cronograma da Sprint
 
 Sprint   |Periodo  | Documentação
----------|---------|---------------|
-Sprint1  |25/08/2025|[Sprint1](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Scrum/Relatório%20Sprints/Sprint1.md)|
-Sprint2  |      -   |               |
+---------|------------|---------------|
+Sprint1  |25/08 - 1/09|[Sprint1](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Scrum/Relatório%20Sprints/Sprint1.md)|
+Sprint2  |      -   |                 |
 
 ## Tecnologias Utilizadas
 
