@@ -3,7 +3,7 @@
 A InterFix é uma empresa dedicada a transformar o suporte técnico empresarial por meio do uso de inteligência artificial. Nosso objetivo é conectar soluções inteligentes com as necessidades de nossos clientes, oferecendo assistência eficiente, personalizada e em tempo real.
 <p align="center">
   
-  [BackLog do Produto](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Backlog/Backlog%20do%20Produto.md)|
+  | [BackLog do Produto](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Backlog/Backlog%20do%20Produto.md)|
   [DoR]()|
   [Dod]()|
   [Cronograma de Sprints](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Backlog/Backlog%20da%20Sprint.md)  |
