@@ -21,11 +21,27 @@ Técnico     | Quero gerenciar meus chamados asginados | Ser mais organizado em 
 Administrador | Desejo poder gerenciar os níveis de acesso | que os usuários possam ter sua função atribuída a eles. |P1|Em andamento ⏳ |
 Administrador | Desejo poder gerenciar os chamados| Conhecer quais problemas existem na empresa e que prioridade está sendo dada a eles. | P1 |Em andamento ⏳ |
 
+---
+## 🏃‍ DoR - Definition of Ready 
+
+* User Stories com **Critérios de Aceitação**
+* Subtarefas divididas **a partir das US**
+* Design no **Figma**
+* Modelagem do **Banco de Dados**
+
+## 🏆 DoD - Definition of Done
+
+* Manual de Usuário
+* Manual da Aplicação
+* Documentação da API (Application Programming Interface)
+* Código completo
+---
+
 ## 📅 Cronograma da Sprint
 
 Sprint   |Periodo  | Documentação
 ---------|---------|---------------|
-Sprint1  |     -    |               |
+Sprint1  |25/08/2025|[Sprint1](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Scrum/Relatório%20Sprints/Sprint1.md)|
 Sprint2  |      -   |               |
 
 ## Tecnologias Utilizadas
@@ -33,8 +49,20 @@ Sprint2  |      -   |               |
 Categoria | Tecnologia 
 ----------|---------------|
 FrontEnd  | HTML, CSS e Figma |
+BackEnd | python e C# |
 Banco de dados | BrModel e SQL Server|
 I.A | BlackBox AI |
 Metodologia | 	Scrum |
+
+## Equipe 👥
+
+Função       | Nome                | Github                                                       |
+------------ | --------------------| -------------------------------------------------------------|
+Project Owner| Christian Fernandes | [Acessar Github](https://github.com/ChristianFernandesLemos) |
+Scrum Master | Juan Vargas         | [Acessar Github](https://github.com/RenteriaJuan)            |
+Dev Team     | Théo Pinto          | [Acessar Github](https://github.com/Thorphinm)               |
+Dev Team     | Ana Beatriz         | [Acessar Github](https://github.com/Anasouza2802)            |
+Dev Team     |Gustavo Gramacho     | [Acessar Github](https://github.com/gramachoo)               |
+Dev Team     | Lukas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
 
         
