@@ -41,9 +41,8 @@ Re006: Níveis de acesso: O Sistema deve possuir níveis de acesso (funcionário
 
 |             Critério             | Descrição                                                                                         |
 | :------------------------------: | ------------------------------------------------------------------------------------------------- |
-|       Clareza na Descrição       | A User Story está escrita no formato “Como [persona], quero [ação] para que [objetivo]”           |
+|       Clareza na Descrição       | Os casos de uso e suas descrições estão escritass de maneira clara e precisa            |
 | Critérios de Aceitação Definidos | A história possui critérios objetivos que indicam o que é necessário para considerá-la concluída. |
-| Cenários de Teste Especificados  | A história tem pelo menos 1 cenário de teste estruturado (Dado, Quando, Então).                   |
 |           Independente           | A história pode ser implementada sem depender de outra tarefa da mesma Sprint.                    |
 |    Compreensão Compartilhada     | Toda a equipe (incluindo PO e devs) compreende o propósito da história.                           |
 |            Estímável             | A história tem uma estimativa clara.                            |
