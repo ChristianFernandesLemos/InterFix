@@ -38,4 +38,15 @@ Banco de dados | BrModel e SQL Server|
 I.A | BlackBox AI |
 Metodologia | 	Scrum |
 
+## Equipe 👥
+
+Função       | Nome                | Github                                                       |
+------------ | --------------------| -------------------------------------------------------------|
+Project Owner| Christian Fernandes | [Acessar Github](https://github.com/ChristianFernandesLemos) |
+Scrum Master | Juan Vargas         | [Acessar Github](https://github.com/RenteriaJuan)            |
+Dev Team     | Théo Pinto          | [Acessar Github](https://github.com/Thorphinm)               |
+Dev Team     | Ana Beatriz         | [Acessar Github](https://github.com/Anasouza2802)            |
+Dev Team     |Gustavo Gramacho     | [Acessar Github](https://github.com/gramachoo)               |
+Dev Team     | Lukas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
+
         
