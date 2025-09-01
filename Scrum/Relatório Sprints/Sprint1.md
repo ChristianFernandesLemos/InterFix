@@ -8,7 +8,7 @@ A sprint em questão se concentrou no desenvolvimento do backlog do produto, reu
   <a href="ferramentas">ferramentas</a> |
 </p>
 
-## Requisitos: 
+## Backlog do Produto: 
 <a id = "requisitos"></a>
 
 Prioridade 1:
