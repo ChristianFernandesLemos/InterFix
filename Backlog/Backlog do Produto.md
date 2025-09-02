@@ -15,9 +15,9 @@ Administrador | Desejo poder gerenciar os chamados| Conhecer quais problemas exi
 
 Prioridade 1:
 
-Re001: Usuários devem ser capazes de criar chamados, estes chamados devem ter descrição, categoria (software e hardware) e quem ele afeta, se o problema afeta apenas o funcionário, a equipe ou a empresa.
+ReF001: Usuários devem ser capazes de criar chamados, estes chamados devem ter descrição, categoria (software e hardware) e quem ele afeta, se o problema afeta apenas o funcionário, a equipe ou a empresa.
 
-Re002: Tratamento de Chamados via I.A, O sistema deve analisar os chamados por meio de uma I.A, e após a análise deve atribuir um nível de prioridade com base na descrição, categoria e quem o chamado afeta os enviar para o responsável técnico, e caso necessário recategorizar o chamado.
+ReF002: Tratamento de Chamados via I.A, O sistema deve analisar os chamados por meio de uma I.A, e após a análise deve atribuir um nível de prioridade com base na descrição, categoria e quem o chamado afeta os enviar para o responsável técnico, e caso necessário recategorizar o chamado.
 
 ReNF1: O banco de dados deve ser MS SQL server hospedado em Windows Server.
 
@@ -27,10 +27,10 @@ ReNF3: Web: ASP.NET e C# para a aplicação web responsiva.
 
 Prioridade 2:
 
-Re003: Gerenciamento de chamados, Os chamados pendentes e concluídos poderão ser acessados pelo(s) responsável técnico, e podem ser marcados como concluídos após o problema ser resolvido.
+ReF003: Gerenciamento de chamados, Os chamados pendentes e concluídos poderão ser acessados pelo(s) responsável técnico, e podem ser marcados como concluídos após o problema ser resolvido.
 
-Re004: Criação de Relatórios: O sistema deve ser capaz de criar relatórios semanais e mensais sobre os chamados criados, resolvidos e pendentes.
+ReF004: Criação de Relatórios: O sistema deve ser capaz de criar relatórios semanais e mensais sobre os chamados criados, resolvidos e pendentes.
 
 Prioridade 3:
 
-Re005: Níveis de acesso: O Sistema deve possuir níveis de acesso (funcionário, responsável técnico e administrador).
+ReF005: Níveis de acesso: O Sistema deve possuir níveis de acesso (funcionário, responsável técnico e administrador).
