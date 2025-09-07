@@ -5,7 +5,7 @@ A sprint em questão se concentrou no desenvolvimento do diagrama de classes, co
 
 ## Diagrama de classe 
 <a id = "modelagem"></a>
-* Os requisitos foram modelados em diagramas de [casos de uso](), com o objetivo de oferecer ao cliente e à equipe de desenvolvimento uma visão mais clara sobre o sistema e sua respectiva implementação.
+* Os diagramas de caso de uso foram usados para a criação dos diagramas de [Classes](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Diagramas/InterFix%20diagramas%20atualizado.asta), com o objetivo de oferecer ao cliente e à equipe de desenvolvimento uma visão mais clara sobre o sistema e seus principais elementos e interações.
 
 ## Ferramentas utilizadas  
 <a id = "ferramentas"></a>
