@@ -23,6 +23,7 @@ O desafio consiste em criar um sistema integrado para web, desktop e mobile de s
 O IMT - Interfix Management Tool permitirá que os usuários criem chamados para informar problemas internos, com o uso de inteligencia artificial para o tratamento dos chamados e atribuição do chamado para os tecnicos responsaveis, possibilitando um rapido gerenciamento de chamados para os mesmos através de um sistema intuitivo e facil de se lidar, e fazendo uma analise completa das informações armazenadas sobre os chamados através de relatórios detalhados.
 
 ---
+
 ## 🏃‍ DoR - Definition of Ready 
 
 * User Stories com **Critérios de Aceitação**
@@ -49,6 +50,7 @@ Sprint1  |25/08 - 01/09|[Sprint1](https://github.com/ChristianFernandesLemos/Int
 Sprint2  |01/09 - 08/09  |[Sprint2](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Scrum/Relatório%20Sprints/Sprint2.md)                |
 
 ---
+
 ## Tecnologias Utilizadas
 
 Categoria | Tecnologia 
@@ -58,6 +60,8 @@ BackEnd | python e C# |
 Banco de dados | BrModel e SQL Server|
 I.A | BlackBox AI |
 Metodologia | 	Scrum |
+
+---
 
 ## Equipe 👥
 
