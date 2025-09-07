@@ -38,6 +38,7 @@ O IMT - Interfix Management Tool permitirá que os usuários criem chamados para
 * Código completo
   
 ---
+
 ## Sprint Backlog
 
 ## 📅 Cronograma da Sprint
