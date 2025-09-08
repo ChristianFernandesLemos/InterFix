@@ -40,8 +40,7 @@ O IMT - Interfix Management Tool permitirá que os usuários criem chamados para
 
 * Manual de Usuário
 * Manual da Aplicação
-* Documentação da API (Application Programming Interface)
-* Código completo
+* Diagramas completos
   
 ---
 
