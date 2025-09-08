@@ -13,7 +13,11 @@ A InterFix é uma empresa dedicada a transformar o suporte técnico empresarial 
   <a href ="#equipe"> Equipe</a> |
 </p>
 
-![InterFix](https://github.com/user-attachments/assets/8aa8a096-88fa-4be4-952c-946d63ceed66)
+---
+
+<p align="center"><img width="700" height="500" alt="Logo Empresa" src="https://github.com/user-attachments/assets/8aa8a096-88fa-4be4-952c-946d63ceed66">
+
+---
 
 # 🏅 Desafio
 <a id="desafio"></a>
