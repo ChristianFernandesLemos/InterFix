@@ -1,4 +1,4 @@
-# SEGUNDA SPRINT (01/09 - 08/09)
+# TERCEIRA SPRINT (09/09 - 15/09)
 
 A sprint em questão se concentrou no desenvolvimento do diagrama de classes, com base nos casos de uso de modo a proporcionar uma visão clara acerca dos usuarios e itens mais importantes do sistema. 
 
