@@ -2,6 +2,9 @@
 
 Esta sprint teve como objetivo a criação dos diagramas de sequencias para cada um dos casos de uso criados mostrando assim como ocorrem a interação entre os atores e o sistema e como o mesmo deve se comportar ao ser utilizado pelos usuários e como deve se comportar entrando em contato com a IA.   
 
+## Diagrama de sequencia
+<a id = "modelagem"></a>
+* Os diagramas de [Sequencia](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Diagramas/InterFix%20diagramas%20atualizado.asta).
 
 
 ## Ferramentas utilizadas  
