@@ -1,42 +1,8 @@
-# PRIMERA SPRINT (25/08/2025)
+# QUARTA SPRINT (16/09 - 22/09)
 
-A sprint em questão se concentrou no desenvolvimento do backlog do produto, reunindo os requisitos funcionais e requisitos não funcionais, os quais foram separados por prioridade, de modo a proporcionar uma visão clara acerca do sistema a ser implementado. 
-
-<p align = "center">
-  | <a href="requisitos">requisitos</a> |
-  <a href="modelagem">modelagem</a> |
-  <a href="ferramentas">ferramentas</a> |
-</p>
-
-## Backlog do Produto: 
-<a id = "requisitos"></a>
-
-Prioridade 1:
-
-Re001: Usuários devem ser capazes de criar chamados, estes chamados devem ter descrição, categoria (software e hardware) e quem ele afeta, se o problema afeta apenas o funcionário, a equipe ou a empresa.
-
-Re002: Tratamento de Chamados via I.A, O sistema deve analisar os chamados por meio de uma I.A, e após a análise deve atribuir um nível de prioridade com base na descrição, categoria e quem o chamado afeta os enviar para o responsável técnico, e caso necessário recategorizar o chamado.
-
-ReNF1: O banco de dados deve ser MS SQL server hospedado em Windows Server.
-
-ReNF2: Desktop: Interface em C# com Windows Forms, WPF para gestão administrativa do sistema, Blazor etc.
-
-ReNF3: Web: ASP.NET e C# para a aplicação web responsiva.
+Esta sprint teve como objetivo a criação dos diagramas de sequencias para cada um dos casos de uso criados mostrando assim como ocorrem a interação entre os atores e o sistema e como o mesmo deve se comportar ao ser utilizado pelos usuários e como deve se comportar entrando em contato com a IA.   
 
 
-Prioridade 2:
-
-Re003: Gerenciamento de chamados, Os chamados pendentes e concluídos poderão ser acessados pelo(s) responsável técnico, e podem ser marcados como concluídos após o problema ser resolvido.
-
-Re004: Criação de Relatórios: O sistema deve ser capaz de criar relatórios semanais e mensais sobre os chamados criados, resolvidos e pendentes.
-
-Prioridade 3:
-
-Re005: Níveis de acesso: O Sistema deve possuir níveis de acesso (funcionário, responsável técnico e administrador).
-
-## Modelagem de requisitos  
-<a id = "modelagem"></a>
-* Os requisitos foram modelados em diagramas de [casos de uso](https://github.com/ChristianFernandesLemos/InterFix/tree/main/Diagramas), com o objetivo de oferecer ao cliente e à equipe de desenvolvimento uma visão mais clara sobre o sistema e sua respectiva implementação.
 
 ## Ferramentas utilizadas  
 <a id = "ferramentas"></a>
