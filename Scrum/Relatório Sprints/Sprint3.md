@@ -1,6 +1,6 @@
 # TERCEIRA SPRINT (09/09 - 15/09)
 
-A sprint em questão se concentrou no desenvolvimento do diagrama de classes, com base nos casos de uso de modo a proporcionar uma visão clara acerca dos usuarios e itens mais importantes do sistema. 
+A sprint em questão se concentrou no desenvolvimento do diagrama de classes, com base nos casos de uso de modo a proporcionar uma visão clara acerca dos usuarios e itens mais importantes do sistema e sobre como as classes irão interagir entre si e quais classes estão relacionadas com cada caso de uso. 
 
 
 ## Diagrama de classe 
