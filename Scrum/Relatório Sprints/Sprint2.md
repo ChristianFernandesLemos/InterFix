@@ -1,11 +1,11 @@
 # SEGUNDA SPRINT (01/09 - 08/09)
 
-A sprint em questão se concentrou no desenvolvimento do diagrama de classes, com base nos casos de uso de modo a proporcionar uma visão clara acerca dos usuarios e itens mais importantes do sistema. 
+A sprint em questão se concentrou no desenvolvimento do diagrama de casos de uso, com base no backlog do produto proporcionando assim uma visão clara acerca dos atores e todas as funcionalidades do sistema, este diagrama será a base de toda a modelagem do sistema, garantindo assim que todo o planejamento esteja de acordo com o escopo do projeto. 
 
 
-## Diagrama de classe 
+## Diagrama de Casos de Uso 
 <a id = "modelagem"></a>
-* Os diagramas de caso de uso foram usados para a criação dos diagramas de [Classes](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Diagramas/InterFix%20diagramas%20atualizado.asta), com o objetivo de oferecer ao cliente e à equipe de desenvolvimento uma visão mais clara sobre o sistema e seus principais elementos e interações.
+* Osbacklog do produto foi usado para a criação dos diagramas de [Casos de Uso](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Diagramas/InterFix%20diagramas%20atualizado.asta), com o objetivo de oferecer ao cliente e à equipe de desenvolvimento uma visão mais clara sobre o sistema e seus atores e funcionalidades.
 
 ## Ferramentas utilizadas  
 <a id = "ferramentas"></a>
