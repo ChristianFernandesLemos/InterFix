@@ -47,6 +47,11 @@ O IMT - Interfix Management Tool permitirá que os usuários criem chamados para
 * Diagramas completos
   
 ---
+## BackLog do Produto
+
+[Backlog](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Backlog/Backlog%20do%20Produto.md)
+
+---
 
 ## 📅 Cronograma da Sprint
 <a id="sprint"></a>
