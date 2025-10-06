@@ -64,8 +64,8 @@ Sprint3  |09/09 - 15/09 |[Sprint3](https://github.com/ChristianFernandesLemos/In
 Sprint4  |16/09 - 22/09|[Sprint4](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Scrum/Relatório%20Sprints/Sprint4.md)|
 Sprint5  |23/09 - 29/09  |[Sprint5](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Scrum/Relatório%20Sprints/Sprint5.md)|
 Sprint6  |30/09 - 06/10 |[Sprint6]()|
-Sprint7  |23/09 - 29/09  |[Sprint7]()|
-Sprint8  |30/09 - 06/10 |[Sprint8]()|
+Sprint7  |7/10 - 13/10  |[Sprint7]()|
+Sprint8  |14/10 - 20/10 |[Sprint8]()|
 
 
 ---
