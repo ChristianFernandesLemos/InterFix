@@ -1,11 +1,11 @@
-# SEGUNDA SPRINT (01/09 - 08/09)
+# Quinta Sprint (23/09 - 29/09)
 
-A sprint em questão se concentrou no desenvolvimento do diagrama de casos de uso, com base no backlog do produto proporcionando assim uma visão clara acerca dos atores e todas as funcionalidades do sistema, este diagrama será a base de toda a modelagem do sistema, garantindo assim que todo o planejamento esteja de acordo com o escopo do projeto. 
+Esta sprint foi focada em planejamento e documentação de infraestrutura. A equipe dedicou esforços para definir todos os componentes, serviços e suas interações necessárias para a implantação do sistema em um ambiente de produção. O principal entregável foi a criação de um Diagrama de Deployment abrangente, que servirá como fonte da verdade para as próximas fases de DevOps e implantação, assegurando que todos os stakeholders tenham uma visão clara e alinhada da arquitetura.
 
-
-## Diagrama de Casos de Uso 
+## Diagrama de Deployment 
 <a id = "modelagem"></a>
-* Osbacklog do produto foi usado para a criação dos diagramas de [Casos de Uso](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Diagramas/InterFix%20diagramas%20atualizado.asta), com o objetivo de oferecer ao cliente e à equipe de desenvolvimento uma visão mais clara sobre o sistema e seus atores e funcionalidades.
+
+diagramas de [Deployment](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Diagramas/InterFix%20diagramas%20atualizado.asta),
 
 ## Ferramentas utilizadas  
 <a id = "ferramentas"></a>
