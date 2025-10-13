@@ -5,7 +5,7 @@ A InterFix é uma empresa dedicada a transformar o suporte técnico empresarial 
   
   <a href ="#desafio"> Desafio</a>  |
   <a href ="#solucao"> Solução</a>  | 
-  [BackLog do Produto](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Backlog/Backlog%20do%20Produto.md) |
+  [BackLog do Produto](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Backlog/Backlog%20do%20Produto.md) | 
   <a href ="#dor">DoR</a>  |
   <a href ="#dod">DoD</a>  |
   <a href ="#sprint"> Cronograma de Sprints</a> |
@@ -30,6 +30,11 @@ O desafio consiste em criar um sistema integrado para web, desktop e mobile de s
 O IMT - Interfix Management Tool permitirá que os usuários criem chamados para informar problemas internos, com o uso de inteligencia artificial para o tratamento dos chamados e atribuição do chamado para os tecnicos responsaveis, possibilitando um rapido gerenciamento de chamados para os mesmos através de um sistema intuitivo e facil de se lidar, e fazendo uma analise completa das informações armazenadas sobre os chamados através de relatórios detalhados.
 
 ---
+## BackLog do Produto
+
+[Backlog](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Backlog/Backlog%20do%20Produto.md)
+
+---
 
 ## 🏃‍ DoR - Definition of Ready 
 <a id="dor"></a>
@@ -45,11 +50,6 @@ O IMT - Interfix Management Tool permitirá que os usuários criem chamados para
 * Manual de Usuário
 * Manual da Aplicação
 * Diagramas completos
-  
----
-## BackLog do Produto
-
-[Backlog](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Backlog/Backlog%20do%20Produto.md)
 
 ---
 
