@@ -36,23 +36,6 @@ O IMT - Interfix Management Tool permitirá que os usuários criem chamados para
 
 ---
 
-## 🏃‍ DoR - Definition of Ready 
-<a id="dor"></a>
-
-* User Stories com **Critérios de Aceitação**
-* Subtarefas divididas **a partir das US**
-* Design no **Figma**
-* Modelagem do **Banco de Dados**
-
-## 🏆 DoD - Definition of Done
-<a id="dod"></a>
-
-* Manual de Usuário
-* Manual da Aplicação
-* Diagramas completos
-
----
-
 ## 📅 Cronograma da Sprint
 <a id="sprint"></a>
 
@@ -81,6 +64,23 @@ BackEnd | python e C# |
 Banco de dados | BrModel e SQL Server|
 I.A | BlackBox AI |
 Metodologia | 	Scrum |
+
+---
+
+## 🏃‍ DoR - Definition of Ready 
+<a id="dor"></a>
+
+* User Stories com **Critérios de Aceitação**
+* Subtarefas divididas **a partir das US**
+* Design no **Figma**
+* Modelagem do **Banco de Dados**
+
+## 🏆 DoD - Definition of Done
+<a id="dod"></a>
+
+* Manual de Usuário
+* Manual da Aplicação
+* Diagramas completos
 
 ---
 
