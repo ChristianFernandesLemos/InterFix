@@ -1,12 +1,11 @@
-# TERCEIRA SPRINT (09/09 - 15/09)
+# SÉTIMA SPRINT (07/10 - 13/10)
 
-A sprint em questão se concentrou no desenvolvimento do diagrama de classes, com base nos casos de uso de modo a proporcionar uma visão clara acerca dos usuarios e itens mais importantes do sistema. 
+Nesta sprint foi criado o diagrama de pacotes para melhor organização da modelagem do sistema. 
 
 
-## Diagrama de classe 
+## Diagrama de pacotes
 <a id = "modelagem"></a>
-* Os diagramas de caso de uso foram usados para a criação dos diagramas de [Classes](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Diagramas/InterFix%20diagramas%20atualizado.asta), com o objetivo de oferecer ao cliente e à equipe de desenvolvimento uma visão mais clara sobre o sistema e seus principais elementos e interações.
-
+* Os diagramas de [Pacotes](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Diagramas/InterFix%20diagramas%20atualizado.asta), foram criados com o objetivo de organizar o sietama de modo que 
 ## Ferramentas utilizadas  
 <a id = "ferramentas"></a>
 * Astah UML
