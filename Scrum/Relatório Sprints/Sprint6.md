@@ -1,11 +1,11 @@
-# TERCEIRA SPRINT (09/09 - 15/09)
+# SEXTA SPRINT (09/09 - 15/09)
 
-A sprint em questão se concentrou no desenvolvimento do diagrama de classes, com base nos casos de uso de modo a proporcionar uma visão clara acerca dos usuarios e itens mais importantes do sistema. 
+Após a criação de todos os driagramas citados em sprints anteriores até então, esta sprint se concentrou na revisão e correção dos diagramas evitando asssim problemas futuros envolvendo a modelagem. 
 
 
-## Diagrama de classe 
+## Diagramas
 <a id = "modelagem"></a>
-* Os diagramas de caso de uso foram usados para a criação dos diagramas de [Classes](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Diagramas/InterFix%20diagramas%20atualizado.asta), com o objetivo de oferecer ao cliente e à equipe de desenvolvimento uma visão mais clara sobre o sistema e seus principais elementos e interações.
+* Os diagramas foram revisados e corrigidos quando necessario os diagramas mais modificados foram os diagramas de [Sequencia](https://github.com/ChristianFernandesLemos/InterFix/blob/main/Diagramas/InterFix%20diagramas%20atualizado.asta), com o objetivo de evitar que possiveis erros na modelagem avancem para a fase de desenvolvimento.
 
 ## Ferramentas utilizadas  
 <a id = "ferramentas"></a>
