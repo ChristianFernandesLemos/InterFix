@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registrar Chamado - Etapa 2</title>
+    <link rel="stylesheet" href="/static/Forms.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+</head>
+<body>
+    <script src="/static/RegistrarChamados.js"></script>
+
+    <header class="top-bar">
+        <a href="#" class="back-link">
+            <span class="arrow-icon">←</span>
+            Registrar Chamado
+        </a>
+    </header>
+
+    <main class="container">
+        <section class="card">
+            <h2>Novo Chamado</h2>
+            <form action="#" method="post">
+                <div class="form-group">
+                    <label for="afetado">Quem está sendo afetado?</label>
+                    <select id="afetado" name="afetado" required>
+                        <option value="">Selecione...</option>
+                        <option value="apenas eu">Apenas eu</option>
+                        <option value="equipe">Equipe</option>
+                        <option value="departamento">Setor</option>
+                    </select>
+                </div>
+
+                <div class="form-actions">
+                    <button type="button" class="back-button">Voltar</button>
+                    <button type="submit" class="submit-button">Avançar</button>
+                </div>
+            </form>
+        </section>
+    </main>
+
+</body>
+</html>

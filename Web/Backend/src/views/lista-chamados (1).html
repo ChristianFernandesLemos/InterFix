@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Chamados - Sistema de Gerenciamento</title>
+    <link rel="shortcut icon" href="/static/img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/static/lista-chamados.css">
+</head>
+<body>
+    <header class="header">
+        <nav class="navigation">
+            <a href="/menu" class="back-link">
+                <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12.5 15L7.5 10L12.5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+                Voltar
+            </a>
+        </nav>
+    </header>
+
+    <main class="main-content">
+        <section class="ticket-list-section">
+            <h1 class="section-title">Lista de Chamados</h1>
+            
+            <div class="table-container">
+                <table class="tickets-table">
+                    <thead>
+                        <tr>
+                            <th scope="col">Botões</th>
+                            <th scope="col">ID</th>
+                            <th scope="col">Título</th>
+                            <th scope="col">Criado em</th>
+                            <th scope="col">Prioridade</th>
+                            <th scope="col">Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!--Os dados serão carregados aqui pelo JavaScript -->
+                        <tr>
+                            <td colspan="6" style="text-align: center; padding: 40px;">
+                                ⏳ Carregando chamados...
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <nav class="pagination" aria-label="Navegação de páginas">
+                <ul class="pagination-list">
+                    <li><a href="#" class="pagination-link active" aria-current="page">1</a></li>
+                    <li><a href="#" class="pagination-link">2</a></li>
+                    <li><a href="#" class="pagination-link">3</a></li>
+                </ul>
+            </nav>
+        </section>
+    </main>
+
+    <!-- CAMINHO CORRIGIDO - adiciona /static/ -->
+    <script src="/static/VizualizarChamados.js"></script>
+</body>
+</html>

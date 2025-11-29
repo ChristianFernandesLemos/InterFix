@@ -1,0 +1,249 @@
+@charset "UTF-8";
+
+/*
+|--------------------------------------------------------------------------
+| Variáveis Globais (Paleta de Cores Fornecida) 🎨
+|--------------------------------------------------------------------------
+*/
+:root {
+	/* Cores da sua paleta */
+	--primary-color-blue: #0d1b2a; 		/* Muito Escuro */
+	--second-color-blue: #1b263b; 		/* Fundo de Card/Elemento Escuro */
+	--third-color-blue: #415a77; 		/* Bordas / Sombra sutil */
+	--fourth-color-blue: #778da9; 		/* Texto Secundário Claro */
+	--fifth-color-blue: #e0e1dd; 		/* Texto Principal Claro (usado como fundo claro do formulário) */
+	--sixth-color-blue: #49a09d; 		/* Cor de Ação Principal (Teal) */
+	--seventh-color-blue: #004258; 		/* Base Escura (não utilizada diretamente) */
+	--eighth-color-blue: #026687; 		/* Destaque Secundário */
+	--ninth-color-blue: #021c33; 		/* Fundo Base Mais Escuro */
+	--tenth-color-blue: #1aa4e5; 		/* Cor de Hover/Destaque Forte (Ciano) */
+	--primary-color-dark: #050505; 		/* Preto Puro (usado como texto do formulário) */
+	--second-color-dark: #222222; 		/* Cinza Escuro */
+
+	/* Mapeamento Semântico para Tema Escuro */
+	--color-text: var(--fifth-color-blue);
+	--color-background-body: var(--ninth-color-blue);
+	--color-background-element: var(--second-color-blue);
+	--color-action: var(--sixth-color-blue);
+	--color-action-hover: var(--tenth-color-blue);
+	--color-border: var(--third-color-blue);
+	--color-title: var(--fifth-color-blue);
+	
+	--spacing-default: 1rem;
+	--spacing-large: 2rem;
+	--font-family-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/*
+|--------------------------------------------------------------------------
+| Estilos Base / Reset Básico
+|--------------------------------------------------------------------------
+*/
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: var(--font-family-sans);
+	/* Fundo escuro com um leve degradê para dar profundidade */
+	background-color: var(--color-background-body);
+	background: linear-gradient(to bottom, #111, #222);
+	background-attachment: fixed;
+	color: var(--color-text); /* Texto da página principal é claro */
+	line-height: 1.6;
+	min-height: 100vh;
+}
+
+/*
+|--------------------------------------------------------------------------
+| Header e Navegação (Menu de Saída)
+|--------------------------------------------------------------------------
+*/
+.header {
+	/* Fundo semi-transparente para o header que flutua */
+	background-color:#111;
+	box-shadow: 0 4px 10px color-mix(in srgb, var(--primary-color-dark) 40%, transparent);	
+	padding: var(--spacing-default) 0;
+	backdrop-filter: blur(5px); /* Efeito moderno de desfoque */
+	position: sticky;
+	top: 0;
+	z-index: 10;
+}
+
+.navigation {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 var(--spacing-default);
+}
+
+.back-link {
+	color:white; /* Cor suave para links secundários */
+	display: inline-flex;
+	align-items: center;
+	gap: 0.5rem;
+	text-decoration: none;
+	font-weight: 500;
+	transition: color 0.3s;
+}
+
+.back-link:hover {
+	color: var(--tenth-color-blue); /* Destaque forte no hover */
+	text-decoration: none;
+}
+
+.back-link svg {
+	stroke: currentColor;	
+	width: 1.25rem;
+	height: 1.25rem;
+}
+
+/*
+|--------------------------------------------------------------------------
+| Conteúdo Principal e Seção do Formulário
+|--------------------------------------------------------------------------
+*/
+.main-content {
+	padding: var(--spacing-large) var(--spacing-default);
+	display: flex;
+	justify-content: center;
+	align-items: flex-start; /* Alinha o card no topo do conteúdo */
+}
+
+.form-section {
+	/* MUDANÇA PRINCIPAL: Fundo claro/branco para o card */
+	background-color: white; /* #e0e1dd (Light/White) */
+	/* MUDANÇA PRINCIPAL: Cor do texto principal do card para preto */
+	color: var(--primary-color-dark); /* #050505 (Black) */
+	border-radius: 12px;
+	/* Ajuste da sombra para aparecer no fundo escuro */
+	box-shadow: 0 10px 30px color-mix(in srgb, var(--primary-color-dark) 40%, transparent);
+	padding: var(--spacing-large);
+	width: 100%;
+	max-width: 900px;
+}
+
+.form-title {
+	font-size: 2.2rem;
+	margin-bottom: var(--spacing-large);
+	/* Título em preto */
+	color: var(--primary-color-dark);
+	text-align: center;
+	font-weight: 700;
+}
+
+/*
+|--------------------------------------------------------------------------
+| Formulário (Layout Grid)
+|--------------------------------------------------------------------------
+*/
+.ticket-form {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));	
+	gap: var(--spacing-default) var(--spacing-large);
+}
+
+.form-group:has(textarea),
+.submit-button {
+	grid-column: 1 / -1;	
+}
+
+
+.form-group {
+	display: flex;
+	flex-direction: column;
+}
+
+.form-label {
+	margin-bottom: 0.5rem;
+	font-weight: 600;
+	/* Label em cor escura para contraste */
+	color: var(--second-color-dark); 
+}
+
+.form-input,
+.form-textarea,
+.form-select {
+	width: 100%;
+	padding: 0.85rem;
+	/* Borda escura para ser visível no fundo claro */
+	border: 1px solid var(--third-color-blue); 
+	border-radius: 8px; /* Cantos mais arredondados */
+	font-size: 1rem;
+	/* Texto do input em preto */
+	color: var(--primary-color-dark);
+	/* Fundo do input em branco puro para contraste com o card */
+	background-color: var(--fifth-color-blue); 
+	transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.form-input:focus,
+.form-textarea:focus,
+.form-select:focus {
+	/* Destaque de foco forte e elegante (cor Teal mantida) */
+	border-color: var(--tenth-color-blue);	
+	outline: none;
+	box-shadow: 0 0 0 2px var(--sixth-color-blue), 0 0 10px var(--sixth-color-blue);	
+}
+
+.form-textarea {
+	resize: vertical;
+	min-height: 180px;
+}
+
+/*
+|--------------------------------------------------------------------------
+| Botão de Envio (Submit) - PADRÃO DE BOTÕES
+|--------------------------------------------------------------------------
+*/
+.submit-button {
+	background-color: var(--color-action); /* Teal */
+	color: var(--ninth-color-blue); /* Texto Escuro no botão claro (mantido) */
+	border: none;
+	padding: 1rem var(--spacing-large);
+	border-radius: 8px;
+	cursor: pointer;
+	font-size: 1.1rem;
+	font-weight: 700;
+	margin-top: var(--spacing-large);
+	transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 0.75rem;
+	letter-spacing: 0.5px;
+}
+
+.submit-button:hover {
+	background-color: var(--color-action-hover); /* Bright Blue */
+	color: white; /* Texto Branco no hover */
+	transform: translateY(-2px);
+	box-shadow: 0 8px 15px color-mix(in srgb, var(--color-action-hover) 50%, transparent);
+}
+
+.submit-button:active {
+	transform: translateY(0);
+	box-shadow: none;
+}
+
+.submit-button svg {
+	stroke: currentColor;	
+}
+
+/*
+|--------------------------------------------------------------------------
+| Responsividade
+|--------------------------------------------------------------------------
+*/
+@media (max-width: 768px) {
+	.form-section {
+		padding: var(--spacing-default);
+	}
+
+	.ticket-form {
+		/* Layout de coluna única em telas pequenas */
+		grid-template-columns: 1fr;	
+		gap: var(--spacing-default);
+	}
+}
